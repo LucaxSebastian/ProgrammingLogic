@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\bin\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\bin\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\bin\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\bin\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\bin\Debug\net6.0\ref\Exercício.1041 - Coordernadas de um Ponto.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\bin\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\ref\Exercício.1041 - Coordernadas de um Ponto.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1041 - Coordernadas de um Ponto\obj\Debug\net6.0\Exercício.1041 - Coordernadas de um Ponto.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "45GXW3H5eszzCDOHgTHdEKgx3+Iam0CXwVTkK9LtOCkFhT3kXjynHvQxq8LDx0GZ1YjqGmoJ+8uTaMtqtHlBpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exercícios Propostos C#\\URI.JUDGE\\Exercicio.1018 - Cédulas\\Exercicio.1018 - Cédulas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

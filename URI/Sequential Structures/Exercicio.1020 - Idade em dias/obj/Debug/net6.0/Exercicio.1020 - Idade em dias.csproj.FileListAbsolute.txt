@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\bin\Debug\net6.0\Exercicio.1020 - Idade em dias.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\bin\Debug\net6.0\Exercicio.1020 - Idade em dias.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\bin\Debug\net6.0\Exercicio.1020 - Idade em dias.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\bin\Debug\net6.0\Exercicio.1020 - Idade em dias.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\bin\Debug\net6.0\ref\Exercicio.1020 - Idade em dias.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\bin\Debug\net6.0\Exercicio.1020 - Idade em dias.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\Exercicio.1020 - Idade em dias.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\Exercicio.1020 - Idade em dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\Exercicio.1020 - Idade em dias.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\Exercicio.1020 - Idade em dias.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\Exercicio.1020 - Idade em dias.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\Exercicio.1020 - Idade em dias.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\ref\Exercicio.1020 - Idade em dias.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\Exercicio.1020 - Idade em dias.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1020 - Idade em dias\obj\Debug\net6.0\Exercicio.1020 - Idade em dias.genruntimeconfig.cache

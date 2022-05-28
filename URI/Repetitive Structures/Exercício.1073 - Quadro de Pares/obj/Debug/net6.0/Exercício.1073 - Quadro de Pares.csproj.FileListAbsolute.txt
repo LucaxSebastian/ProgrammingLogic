@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\bin\Debug\net6.0\Exercício.1073 - Quadro de Pares.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\bin\Debug\net6.0\Exercício.1073 - Quadro de Pares.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\bin\Debug\net6.0\Exercício.1073 - Quadro de Pares.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\bin\Debug\net6.0\Exercício.1073 - Quadro de Pares.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\bin\Debug\net6.0\ref\Exercício.1073 - Quadro de Pares.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\bin\Debug\net6.0\Exercício.1073 - Quadro de Pares.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\Exercício.1073 - Quadro de Pares.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\Exercício.1073 - Quadro de Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\Exercício.1073 - Quadro de Pares.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\Exercício.1073 - Quadro de Pares.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\Exercício.1073 - Quadro de Pares.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\Exercício.1073 - Quadro de Pares.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\ref\Exercício.1073 - Quadro de Pares.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\Exercício.1073 - Quadro de Pares.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1073 - Quadro de Pares\obj\Debug\net6.0\Exercício.1073 - Quadro de Pares.genruntimeconfig.cache

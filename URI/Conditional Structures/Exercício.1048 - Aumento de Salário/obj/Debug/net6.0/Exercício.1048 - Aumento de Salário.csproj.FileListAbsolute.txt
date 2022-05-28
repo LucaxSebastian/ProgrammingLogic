@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\bin\Debug\net6.0\Exercício.1048 - Aumento de Salário.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\bin\Debug\net6.0\Exercício.1048 - Aumento de Salário.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\bin\Debug\net6.0\Exercício.1048 - Aumento de Salário.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\bin\Debug\net6.0\Exercício.1048 - Aumento de Salário.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\bin\Debug\net6.0\ref\Exercício.1048 - Aumento de Salário.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\bin\Debug\net6.0\Exercício.1048 - Aumento de Salário.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\Exercício.1048 - Aumento de Salário.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\Exercício.1048 - Aumento de Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\Exercício.1048 - Aumento de Salário.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\Exercício.1048 - Aumento de Salário.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\Exercício.1048 - Aumento de Salário.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\Exercício.1048 - Aumento de Salário.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\ref\Exercício.1048 - Aumento de Salário.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\Exercício.1048 - Aumento de Salário.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1048 - Aumento de Salário\obj\Debug\net6.0\Exercício.1048 - Aumento de Salário.genruntimeconfig.cache

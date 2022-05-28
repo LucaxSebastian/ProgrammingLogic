@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\bin\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\bin\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\bin\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\bin\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\bin\Debug\net6.0\ref\Exercicio.1019 - Conversão de Tempo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\bin\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\ref\Exercicio.1019 - Conversão de Tempo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1019 - Conversão de Tempo\obj\Debug\net6.0\Exercicio.1019 - Conversão de Tempo.genruntimeconfig.cache

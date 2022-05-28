@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\bin\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\bin\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\bin\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\bin\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\bin\Debug\net6.0\ref\Exercício.1101 - Sequência de Números e Soma.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\bin\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\ref\Exercício.1101 - Sequência de Números e Soma.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1101 - Sequência de Números e Soma\obj\Debug\net6.0\Exercício.1101 - Sequência de Números e Soma.genruntimeconfig.cache

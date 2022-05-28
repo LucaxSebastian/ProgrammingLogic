@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\bin\Debug\net6.0\Exercício.1132 - Múltiplo de 13.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\bin\Debug\net6.0\Exercício.1132 - Múltiplo de 13.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\bin\Debug\net6.0\Exercício.1132 - Múltiplo de 13.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\bin\Debug\net6.0\Exercício.1132 - Múltiplo de 13.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\bin\Debug\net6.0\ref\Exercício.1132 - Múltiplo de 13.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\bin\Debug\net6.0\Exercício.1132 - Múltiplo de 13.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\Exercício.1132 - Múltiplo de 13.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\Exercício.1132 - Múltiplo de 13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\Exercício.1132 - Múltiplo de 13.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\Exercício.1132 - Múltiplo de 13.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\Exercício.1132 - Múltiplo de 13.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\Exercício.1132 - Múltiplo de 13.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\ref\Exercício.1132 - Múltiplo de 13.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\Exercício.1132 - Múltiplo de 13.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1132 - Múltiplo de 13\obj\Debug\net6.0\Exercício.1132 - Múltiplo de 13.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\bin\Debug\net6.0\Exercicio.1014.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\bin\Debug\net6.0\Exercicio.1014.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\bin\Debug\net6.0\Exercicio.1014.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\bin\Debug\net6.0\Exercicio.1014.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\bin\Debug\net6.0\ref\Exercicio.1014.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\bin\Debug\net6.0\Exercicio.1014.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\Exercicio.1014.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\Exercicio.1014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\Exercicio.1014.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\Exercicio.1014.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\Exercicio.1014.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\Exercicio.1014.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\ref\Exercicio.1014.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\Exercicio.1014.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1014\obj\Debug\net6.0\Exercicio.1014.genruntimeconfig.cache

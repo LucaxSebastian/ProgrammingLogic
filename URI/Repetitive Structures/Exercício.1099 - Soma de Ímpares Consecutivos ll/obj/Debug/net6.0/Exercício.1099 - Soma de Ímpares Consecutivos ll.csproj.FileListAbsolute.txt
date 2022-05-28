@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\bin\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\bin\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\bin\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\bin\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\bin\Debug\net6.0\ref\Exercício.1099 - Soma de Ímpares Consecutivos ll.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\bin\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\ref\Exercício.1099 - Soma de Ímpares Consecutivos ll.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1099 - Soma de Ímpares Consecutivos ll\obj\Debug\net6.0\Exercício.1099 - Soma de Ímpares Consecutivos ll.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\bin\Debug\net6.0\Exercício.1080 - Maior Posição.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\bin\Debug\net6.0\Exercício.1080 - Maior Posição.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\bin\Debug\net6.0\Exercício.1080 - Maior Posição.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\bin\Debug\net6.0\Exercício.1080 - Maior Posição.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\bin\Debug\net6.0\ref\Exercício.1080 - Maior Posição.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\bin\Debug\net6.0\Exercício.1080 - Maior Posição.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\Exercício.1080 - Maior Posição.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\Exercício.1080 - Maior Posição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\Exercício.1080 - Maior Posição.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\Exercício.1080 - Maior Posição.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\Exercício.1080 - Maior Posição.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\Exercício.1080 - Maior Posição.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\ref\Exercício.1080 - Maior Posição.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\Exercício.1080 - Maior Posição.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1080 - Maior Posição\obj\Debug\net6.0\Exercício.1080 - Maior Posição.genruntimeconfig.cache

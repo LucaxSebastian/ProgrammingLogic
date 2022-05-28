@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exercício.1133 - Resto da Divisão/1.0.0": {
+        "runtime": {
+          "Exercício.1133 - Resto da Divisão.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício.1133 - Resto da Divisão/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

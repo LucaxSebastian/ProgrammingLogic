@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\bin\Debug\net6.0\Exercício.1044 - Multíplos.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\bin\Debug\net6.0\Exercício.1044 - Multíplos.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\bin\Debug\net6.0\Exercício.1044 - Multíplos.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\bin\Debug\net6.0\Exercício.1044 - Multíplos.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\bin\Debug\net6.0\ref\Exercício.1044 - Multíplos.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\bin\Debug\net6.0\Exercício.1044 - Multíplos.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\Exercício.1044 - Multíplos.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\Exercício.1044 - Multíplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\Exercício.1044 - Multíplos.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\Exercício.1044 - Multíplos.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\Exercício.1044 - Multíplos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\Exercício.1044 - Multíplos.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\ref\Exercício.1044 - Multíplos.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\Exercício.1044 - Multíplos.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1044 - Multíplos\obj\Debug\net6.0\Exercício.1044 - Multíplos.genruntimeconfig.cache

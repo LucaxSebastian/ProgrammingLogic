@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\bin\Debug\net6.0\Exercício.1074 - Par ou Ímpar.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\bin\Debug\net6.0\Exercício.1074 - Par ou Ímpar.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\bin\Debug\net6.0\Exercício.1074 - Par ou Ímpar.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\bin\Debug\net6.0\Exercício.1074 - Par ou Ímpar.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\bin\Debug\net6.0\ref\Exercício.1074 - Par ou Ímpar.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\bin\Debug\net6.0\Exercício.1074 - Par ou Ímpar.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\Exercício.1074 - Par ou Ímpar.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\Exercício.1074 - Par ou Ímpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\Exercício.1074 - Par ou Ímpar.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\Exercício.1074 - Par ou Ímpar.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\Exercício.1074 - Par ou Ímpar.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\Exercício.1074 - Par ou Ímpar.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\ref\Exercício.1074 - Par ou Ímpar.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\Exercício.1074 - Par ou Ímpar.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1074 - Par ou Ímpar\obj\Debug\net6.0\Exercício.1074 - Par ou Ímpar.genruntimeconfig.cache

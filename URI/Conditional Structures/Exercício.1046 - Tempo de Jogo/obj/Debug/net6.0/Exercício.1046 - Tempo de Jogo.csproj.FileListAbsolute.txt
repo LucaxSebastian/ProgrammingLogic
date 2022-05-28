@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\bin\Debug\net6.0\Exercício.1046 - Tempo de Jogo.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\bin\Debug\net6.0\Exercício.1046 - Tempo de Jogo.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\bin\Debug\net6.0\Exercício.1046 - Tempo de Jogo.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\bin\Debug\net6.0\Exercício.1046 - Tempo de Jogo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\bin\Debug\net6.0\ref\Exercício.1046 - Tempo de Jogo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\bin\Debug\net6.0\Exercício.1046 - Tempo de Jogo.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\Exercício.1046 - Tempo de Jogo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\Exercício.1046 - Tempo de Jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\Exercício.1046 - Tempo de Jogo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\Exercício.1046 - Tempo de Jogo.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\Exercício.1046 - Tempo de Jogo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\Exercício.1046 - Tempo de Jogo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\ref\Exercício.1046 - Tempo de Jogo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\Exercício.1046 - Tempo de Jogo.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1046 - Tempo de Jogo\obj\Debug\net6.0\Exercício.1046 - Tempo de Jogo.genruntimeconfig.cache

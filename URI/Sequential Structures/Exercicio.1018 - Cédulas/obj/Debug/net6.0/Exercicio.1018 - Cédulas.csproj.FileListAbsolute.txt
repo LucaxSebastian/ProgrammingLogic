@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\Exercicio.1018 - Cédulas.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\Exercicio.1018 - Cédulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\Exercicio.1018 - Cédulas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\Exercicio.1018 - Cédulas.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\Exercicio.1018 - Cédulas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\bin\Debug\net6.0\Exercicio.1018 - Cédulas.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\bin\Debug\net6.0\Exercicio.1018 - Cédulas.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\bin\Debug\net6.0\Exercicio.1018 - Cédulas.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\bin\Debug\net6.0\Exercicio.1018 - Cédulas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\bin\Debug\net6.0\ref\Exercicio.1018 - Cédulas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\bin\Debug\net6.0\Exercicio.1018 - Cédulas.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\Exercicio.1018 - Cédulas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\ref\Exercicio.1018 - Cédulas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\Exercicio.1018 - Cédulas.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1018 - Cédulas\obj\Debug\net6.0\Exercicio.1018 - Cédulas.genruntimeconfig.cache

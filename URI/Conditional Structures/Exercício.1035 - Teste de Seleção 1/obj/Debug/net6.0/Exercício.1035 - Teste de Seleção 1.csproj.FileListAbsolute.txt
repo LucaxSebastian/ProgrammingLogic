@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\bin\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\bin\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\bin\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\bin\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\bin\Debug\net6.0\ref\Exercício.1035 - Teste de Seleção 1.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\bin\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\ref\Exercício.1035 - Teste de Seleção 1.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1035 - Teste de Seleção 1\obj\Debug\net6.0\Exercício.1035 - Teste de Seleção 1.genruntimeconfig.cache

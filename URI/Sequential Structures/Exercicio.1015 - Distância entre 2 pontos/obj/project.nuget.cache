@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jC09+Y8Fdba9ZmxT+aDGizlAb34JWGlyiwp1TYoAbDGy7Z+QbzJmfGge6sqnGNVcCJXnLRSV1dp9sn671B0Gzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exercícios Propostos C#\\URI.JUDGE\\Exercicio.1015\\Exercicio.1015.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

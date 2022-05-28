@@ -1,0 +1,30 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\bin\Debug\net6.0\Exercicio.1009.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\bin\Debug\net6.0\Exercicio.1009.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\bin\Debug\net6.0\Exercicio.1009.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\bin\Debug\net6.0\Exercicio.1009.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\bin\Debug\net6.0\ref\Exercicio.1009.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\bin\Debug\net6.0\Exercicio.1009.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\Exercicio.1009.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\Exercicio.1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\Exercicio.1009.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\Exercicio.1009.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\Exercicio.1009.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\Exercicio.1009.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\ref\Exercicio.1009.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\Exercicio.1009.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009\obj\Debug\net6.0\Exercicio.1009.genruntimeconfig.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\bin\Debug\net6.0\Exercicio.1009.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\bin\Debug\net6.0\Exercicio.1009.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\bin\Debug\net6.0\Exercicio.1009.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\bin\Debug\net6.0\Exercicio.1009.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\bin\Debug\net6.0\ref\Exercicio.1009.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\bin\Debug\net6.0\Exercicio.1009.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\Exercicio.1009.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\Exercicio.1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\Exercicio.1009.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\Exercicio.1009.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\Exercicio.1009.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\Exercicio.1009.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\ref\Exercicio.1009.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\Exercicio.1009.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1009 - Salário com Bônus\obj\Debug\net6.0\Exercicio.1009.genruntimeconfig.cache

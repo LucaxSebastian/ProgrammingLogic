@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\bin\Debug\net6.0\Exercício.1067 - Números ímpares.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\bin\Debug\net6.0\Exercício.1067 - Números ímpares.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\bin\Debug\net6.0\Exercício.1067 - Números ímpares.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\bin\Debug\net6.0\Exercício.1067 - Números ímpares.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\bin\Debug\net6.0\ref\Exercício.1067 - Números ímpares.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\bin\Debug\net6.0\Exercício.1067 - Números ímpares.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\Exercício.1067 - Números ímpares.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\Exercício.1067 - Números ímpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\Exercício.1067 - Números ímpares.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\Exercício.1067 - Números ímpares.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\Exercício.1067 - Números ímpares.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\Exercício.1067 - Números ímpares.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\ref\Exercício.1067 - Números ímpares.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\Exercício.1067 - Números ímpares.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1067 - Números ímpares\obj\Debug\net6.0\Exercício.1067 - Números ímpares.genruntimeconfig.cache

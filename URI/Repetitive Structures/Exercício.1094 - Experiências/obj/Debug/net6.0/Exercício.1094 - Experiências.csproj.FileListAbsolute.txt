@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\bin\Debug\net6.0\Exercício.1094 - Experiências.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\bin\Debug\net6.0\Exercício.1094 - Experiências.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\bin\Debug\net6.0\Exercício.1094 - Experiências.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\bin\Debug\net6.0\Exercício.1094 - Experiências.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\bin\Debug\net6.0\ref\Exercício.1094 - Experiências.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\bin\Debug\net6.0\Exercício.1094 - Experiências.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\Exercício.1094 - Experiências.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\Exercício.1094 - Experiências.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\Exercício.1094 - Experiências.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\Exercício.1094 - Experiências.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\Exercício.1094 - Experiências.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\Exercício.1094 - Experiências.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\ref\Exercício.1094 - Experiências.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\Exercício.1094 - Experiências.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1094 - Experiências\obj\Debug\net6.0\Exercício.1094 - Experiências.genruntimeconfig.cache

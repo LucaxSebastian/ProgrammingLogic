@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\bin\Debug\net6.0\Exercício.1154 - Idades.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\bin\Debug\net6.0\Exercício.1154 - Idades.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\bin\Debug\net6.0\Exercício.1154 - Idades.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\bin\Debug\net6.0\Exercício.1154 - Idades.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\bin\Debug\net6.0\ref\Exercício.1154 - Idades.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\bin\Debug\net6.0\Exercício.1154 - Idades.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\Exercício.1154 - Idades.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\Exercício.1154 - Idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\Exercício.1154 - Idades.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\Exercício.1154 - Idades.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\Exercício.1154 - Idades.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\Exercício.1154 - Idades.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\ref\Exercício.1154 - Idades.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\Exercício.1154 - Idades.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1154 - Idades\obj\Debug\net6.0\Exercício.1154 - Idades.genruntimeconfig.cache

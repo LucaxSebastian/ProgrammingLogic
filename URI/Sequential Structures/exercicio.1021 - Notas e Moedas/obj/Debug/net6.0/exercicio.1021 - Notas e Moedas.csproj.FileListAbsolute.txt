@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\bin\Debug\net6.0\exercicio.1021 - Notas e Moedas.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\bin\Debug\net6.0\exercicio.1021 - Notas e Moedas.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\bin\Debug\net6.0\exercicio.1021 - Notas e Moedas.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\bin\Debug\net6.0\exercicio.1021 - Notas e Moedas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\bin\Debug\net6.0\ref\exercicio.1021 - Notas e Moedas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\bin\Debug\net6.0\exercicio.1021 - Notas e Moedas.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\exercicio.1021 - Notas e Moedas.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\exercicio.1021 - Notas e Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\exercicio.1021 - Notas e Moedas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\exercicio.1021 - Notas e Moedas.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\exercicio.1021 - Notas e Moedas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\exercicio.1021 - Notas e Moedas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\ref\exercicio.1021 - Notas e Moedas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\exercicio.1021 - Notas e Moedas.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\exercicio.1021 - Notas e Moedas\obj\Debug\net6.0\exercicio.1021 - Notas e Moedas.genruntimeconfig.cache

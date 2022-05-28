@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\bin\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\bin\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\bin\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\bin\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\bin\Debug\net6.0\ref\Exercício.1143 - Quadrado e ao Cubo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\bin\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\ref\Exercício.1143 - Quadrado e ao Cubo.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1143 - Quadrado e ao Cubo\obj\Debug\net6.0\Exercício.1143 - Quadrado e ao Cubo.genruntimeconfig.cache

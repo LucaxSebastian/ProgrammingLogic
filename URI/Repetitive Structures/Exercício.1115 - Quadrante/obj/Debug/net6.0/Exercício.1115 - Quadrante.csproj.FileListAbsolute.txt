@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\bin\Debug\net6.0\Exercício.1115 - Quadrante.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\bin\Debug\net6.0\Exercício.1115 - Quadrante.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\bin\Debug\net6.0\Exercício.1115 - Quadrante.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\bin\Debug\net6.0\Exercício.1115 - Quadrante.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\bin\Debug\net6.0\ref\Exercício.1115 - Quadrante.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\bin\Debug\net6.0\Exercício.1115 - Quadrante.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\Exercício.1115 - Quadrante.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\Exercício.1115 - Quadrante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\Exercício.1115 - Quadrante.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\Exercício.1115 - Quadrante.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\Exercício.1115 - Quadrante.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\Exercício.1115 - Quadrante.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\ref\Exercício.1115 - Quadrante.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\Exercício.1115 - Quadrante.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1115 - Quadrante\obj\Debug\net6.0\Exercício.1115 - Quadrante.genruntimeconfig.cache

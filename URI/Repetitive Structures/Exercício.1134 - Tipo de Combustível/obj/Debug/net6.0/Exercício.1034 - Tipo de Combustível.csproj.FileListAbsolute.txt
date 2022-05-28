@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\bin\Debug\net6.0\Exercício.1034 - Tipo de Combustível.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\bin\Debug\net6.0\Exercício.1034 - Tipo de Combustível.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\bin\Debug\net6.0\Exercício.1034 - Tipo de Combustível.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\bin\Debug\net6.0\Exercício.1034 - Tipo de Combustível.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\bin\Debug\net6.0\ref\Exercício.1034 - Tipo de Combustível.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\bin\Debug\net6.0\Exercício.1034 - Tipo de Combustível.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\Exercício.1034 - Tipo de Combustível.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\Exercício.1034 - Tipo de Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\Exercício.1034 - Tipo de Combustível.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\Exercício.1034 - Tipo de Combustível.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\Exercício.1034 - Tipo de Combustível.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\Exercício.1034 - Tipo de Combustível.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\ref\Exercício.1034 - Tipo de Combustível.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\Exercício.1034 - Tipo de Combustível.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1034 - Tipo de Combustível\obj\Debug\net6.0\Exercício.1034 - Tipo de Combustível.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\bin\Debug\net6.0\Exercicio.1016 - Distância.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\bin\Debug\net6.0\Exercicio.1016 - Distância.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\bin\Debug\net6.0\Exercicio.1016 - Distância.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\bin\Debug\net6.0\Exercicio.1016 - Distância.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\bin\Debug\net6.0\ref\Exercicio.1016 - Distância.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\bin\Debug\net6.0\Exercicio.1016 - Distância.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\Exercicio.1016 - Distância.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\Exercicio.1016 - Distância.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\Exercicio.1016 - Distância.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\Exercicio.1016 - Distância.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\Exercicio.1016 - Distância.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\Exercicio.1016 - Distância.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\ref\Exercicio.1016 - Distância.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\Exercicio.1016 - Distância.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1016 - Distância\obj\Debug\net6.0\Exercicio.1016 - Distância.genruntimeconfig.cache

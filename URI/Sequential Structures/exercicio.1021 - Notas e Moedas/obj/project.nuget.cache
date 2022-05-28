@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkuzEDbTPUvpcz6DBsC8ZIHpNGBj2Zeg2LerZB3PeqQ/pLJctXiWnk47jQQHBndDHkGWLF1uWRUgi4yXzsM9qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exercícios Propostos C#\\URI.JUDGE\\exercicio.1021 - Notas e Moedas\\exercicio.1021 - Notas e Moedas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

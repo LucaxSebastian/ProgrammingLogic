@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\bin\Debug\net6.0\Exercício.1117 - Validação de Nota.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\bin\Debug\net6.0\Exercício.1117 - Validação de Nota.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\bin\Debug\net6.0\Exercício.1117 - Validação de Nota.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\bin\Debug\net6.0\Exercício.1117 - Validação de Nota.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\bin\Debug\net6.0\ref\Exercício.1117 - Validação de Nota.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\bin\Debug\net6.0\Exercício.1117 - Validação de Nota.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\Exercício.1117 - Validação de Nota.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\Exercício.1117 - Validação de Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\Exercício.1117 - Validação de Nota.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\Exercício.1117 - Validação de Nota.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\Exercício.1117 - Validação de Nota.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\Exercício.1117 - Validação de Nota.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\ref\Exercício.1117 - Validação de Nota.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\Exercício.1117 - Validação de Nota.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1117 - Validação de Nota\obj\Debug\net6.0\Exercício.1117 - Validação de Nota.genruntimeconfig.cache

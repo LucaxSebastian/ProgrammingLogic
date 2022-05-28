@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\bin\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\bin\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\bin\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\bin\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\bin\Debug\net6.0\ref\Exercicio.1017 - Gasto de Combustível.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\bin\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\ref\Exercicio.1017 - Gasto de Combustível.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Exercicio.1017 - Gasto de Combustível\obj\Debug\net6.0\Exercicio.1017 - Gasto de Combustível.genruntimeconfig.cache

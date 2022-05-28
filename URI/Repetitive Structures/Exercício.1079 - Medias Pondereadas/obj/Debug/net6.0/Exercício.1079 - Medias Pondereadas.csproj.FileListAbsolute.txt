@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\bin\Debug\net6.0\Exercício.1079 - Medias Pondereadas.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\bin\Debug\net6.0\Exercício.1079 - Medias Pondereadas.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\bin\Debug\net6.0\Exercício.1079 - Medias Pondereadas.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\bin\Debug\net6.0\Exercício.1079 - Medias Pondereadas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\bin\Debug\net6.0\ref\Exercício.1079 - Medias Pondereadas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\bin\Debug\net6.0\Exercício.1079 - Medias Pondereadas.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\Exercício.1079 - Medias Pondereadas.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\Exercício.1079 - Medias Pondereadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\Exercício.1079 - Medias Pondereadas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\Exercício.1079 - Medias Pondereadas.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\Exercício.1079 - Medias Pondereadas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\Exercício.1079 - Medias Pondereadas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\ref\Exercício.1079 - Medias Pondereadas.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\Exercício.1079 - Medias Pondereadas.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estruturas Repetitivas\Exercício.1079 - Medias Pondereadas\obj\Debug\net6.0\Exercício.1079 - Medias Pondereadas.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\bin\Debug\net6.0\Exercício.1038 - Lanche.exe
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\bin\Debug\net6.0\Exercício.1038 - Lanche.deps.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\bin\Debug\net6.0\Exercício.1038 - Lanche.runtimeconfig.json
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\bin\Debug\net6.0\Exercício.1038 - Lanche.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\bin\Debug\net6.0\ref\Exercício.1038 - Lanche.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\bin\Debug\net6.0\Exercício.1038 - Lanche.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\Exercício.1038 - Lanche.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\Exercício.1038 - Lanche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\Exercício.1038 - Lanche.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\Exercício.1038 - Lanche.AssemblyInfo.cs
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\Exercício.1038 - Lanche.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\Exercício.1038 - Lanche.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\ref\Exercício.1038 - Lanche.dll
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\Exercício.1038 - Lanche.pdb
+C:\Users\PC\Desktop\Exercícios Propostos C#\URI.JUDGE\Estrutura Condicional\Exercício.1038 - Lanche\obj\Debug\net6.0\Exercício.1038 - Lanche.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePaiw0uiFdDXHsO1lq4tj6OglcjGmKChJQR4Iv3t3vRMbVSVxkjsuV1Ww/iXkd4l2jfxV1rAMSQ9lF7txDp/Zg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\Exercícios Propostos C#\\URI.JUDGE\\Exercicio.1020 - Idade em dias\\Exercicio.1020 - Idade em dias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.0\\microsoft.aspnetcore.app.ref.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
