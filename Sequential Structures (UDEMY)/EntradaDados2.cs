@@ -5,7 +5,7 @@ namespace LogicaProgramacao.EstruturaSequencial
 {
     public static class Exercicio2
     {
-        public static void Executarr()
+        public static void Executar()
         {
             Console.Write("Informe um numero inteiro: ");
             int.TryParse(Console.ReadLine(), out int valor_inteiro);
