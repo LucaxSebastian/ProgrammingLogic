@@ -5,7 +5,7 @@ namespace LogicaProgramacao.EstruturaSequencial
 {
     public static class Exercicio2
     {
-        public static void Executar()
+        public static void Executarr()
         {
             Console.Write("Informe um numero inteiro: ");
             int.TryParse(Console.ReadLine(), out int valor_inteiro);
@@ -29,7 +29,7 @@ namespace LogicaProgramacao.EstruturaSequencial
             Console.WriteLine($"Nome: {nome}");
             Console.WriteLine($"Sexo: {sexo}");
             Console.WriteLine($"Idade: {idade}");
-            Console.WriteLine("Altura: ", altura.ToString("F2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Altura: {0}", altura.ToString("F2", CultureInfo.InvariantCulture));
             Console.ReadKey();
         }
     }

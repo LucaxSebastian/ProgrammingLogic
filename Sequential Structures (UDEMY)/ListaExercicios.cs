@@ -4,7 +4,7 @@ namespace LogicaProgramacao.EstruturaSequencial
 {
     public static class ListaDeExerciciosEstruturasSequenciais
     {
-        public static void ExibirListaDeExercicios()
+        public static void MenuDeExercicios()
         {
             Console.WriteLine($"--- Exercicios sobre Estruturas Sequenciais --- \n");
             Console.WriteLine("1) Entrada de dados - PARTE 1");
@@ -17,7 +17,7 @@ namespace LogicaProgramacao.EstruturaSequencial
 
         public static void ExecutarExercicio()
         {
-            Console.Write("\nEscolha a opção do exercício: ");
+            Console.Write("\nEscolha o número do exercício: ");
             int.TryParse(Console.ReadLine(), out int opcao);
             Console.WriteLine();
 
@@ -40,7 +40,7 @@ namespace LogicaProgramacao.EstruturaSequencial
 
                 default:
                     Console.WriteLine("Opção inválida. Tente novamente\n"); 
-                    ExibirListaDeExercicios();
+                    MenuDeExercicios();
                 break;
             }
         }

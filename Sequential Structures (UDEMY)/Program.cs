@@ -6,7 +6,7 @@ namespace LogicaProgramacao.EstruturaSequencial
     {
         public static void Main(string[] args)
         {
-            ListaDeExerciciosEstruturasSequenciais.ExibirListaDeExercicios();
+            ListaDeExerciciosEstruturasSequenciais.MenuDeExercicios();
             ListaDeExerciciosEstruturasSequenciais.ExecutarExercicio();
         }
     }
