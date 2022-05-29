@@ -6,7 +6,7 @@ namespace LogicaProgramacao.EstruturaSequencial
     {
         public static void MenuDeExercicios()
         {
-            Console.WriteLine($"--- Exercicios sobre Estruturas Sequenciais --- \n");
+            Console.WriteLine("--- Exercicios sobre Estruturas Sequenciais --- \n");
             Console.WriteLine("1) Entrada de dados - PARTE 1");
             Console.WriteLine("2) Estrada de dados - PARTE 2");
             Console.WriteLine("3) Funções Matemáticas");
