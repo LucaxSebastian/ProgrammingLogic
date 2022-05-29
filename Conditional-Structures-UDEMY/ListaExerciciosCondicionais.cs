@@ -6,7 +6,8 @@ namespace EstruturaCondicional
     {
         public static void MenuDeExercicios()
         {
-            Console.WriteLine($"--- Exercicios sobre Estruturas Condicionais --- \n");
+            Console.WriteLine("--- Exercicios sobre Estruturas Condicionais --- \n");
+            Console.WriteLine("1) Exercício Resolvido 01");
 
             Console.WriteLine("5) SAIR");
 
@@ -20,7 +21,7 @@ namespace EstruturaCondicional
 
             switch(opcao)
             {
-                case 1:  break;
+                case 1: Exercicio01.Executar(); break;
 
 
 
