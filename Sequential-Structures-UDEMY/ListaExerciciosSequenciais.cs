@@ -10,9 +10,7 @@ namespace LogicaProgramacao.EstruturaSequencial
             Console.WriteLine("1) Entrada de dados - PARTE 1");
             Console.WriteLine("2) Estrada de dados - PARTE 2");
             Console.WriteLine("3) Funções Matemáticas");
-
-            Console.WriteLine("5) SAIR");
-
+            Console.WriteLine("4) SAIR");
         }
 
         public static void ExecutarExercicio()
@@ -24,16 +22,10 @@ namespace LogicaProgramacao.EstruturaSequencial
             switch(opcao)
             {
                 case 1: Exercicio1.Executar(); break;
-
                 case 2: Exercicio2.Executar(); break;
-
                 case 3: FuncoesMatematicas.Executar(); break;
 
-                case 4:                 break;
-
-
-
-                case 10: 
+                case 4: 
                     Console.WriteLine("Saindo... Obrigado!");
                     System.Environment.Exit(0);
                 break;
