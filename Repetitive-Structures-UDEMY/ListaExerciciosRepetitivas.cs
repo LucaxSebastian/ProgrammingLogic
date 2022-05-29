@@ -1,13 +1,12 @@
 using System;
-
 namespace EstruturaRepetitiva
 {
-    public static class ListaDeExerciciosCondicionais
+    public static class ListaDeExerciciosRepetitivas
     {
         public static void MenuDeExercicios()
         {
             Console.WriteLine("--- Exercicios sobre Estruturas Repetitivas --- \n");
-            
+            Console.WriteLine("1) Exercício 01 - URI 1113 (Estrutura While)");         
             
             Console.WriteLine("5) SAIR");
         }
@@ -20,7 +19,7 @@ namespace EstruturaRepetitiva
 
             switch(opcao)
             {
-                case 1:  break;
+                case 1: Exercicio01.Executar();  break;
                 case 2:  break;
                 case 3:  break;
 

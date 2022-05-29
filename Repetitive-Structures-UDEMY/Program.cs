@@ -7,7 +7,8 @@ namespace LogicaProgramacao
     {
         static void Main(string[] args)
         {
-            
+            ListaDeExerciciosRepetitivas.MenuDeExercicios();
+            ListaDeExerciciosRepetitivas.ExecutarExercicio();
         }
     }
 }
