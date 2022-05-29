@@ -41,6 +41,7 @@ namespace LogicaProgramacao.EstruturaSequencial
                 default:
                     Console.WriteLine("Opção inválida. Tente novamente\n"); 
                     MenuDeExercicios();
+                    ExecutarExercicio();
                 break;
             }
         }
