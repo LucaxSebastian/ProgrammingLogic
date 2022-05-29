@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\bin\Debug\net6.0\Conditional-Structures-UDEMY.exe
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\bin\Debug\net6.0\Conditional-Structures-UDEMY.deps.json
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\bin\Debug\net6.0\Conditional-Structures-UDEMY.runtimeconfig.json
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\bin\Debug\net6.0\Conditional-Structures-UDEMY.dll
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\bin\Debug\net6.0\Conditional-Structures-UDEMY.pdb
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\Conditional-Structures-UDEMY.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\Conditional-Structures-UDEMY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\Conditional-Structures-UDEMY.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\Conditional-Structures-UDEMY.AssemblyInfo.cs
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\Conditional-Structures-UDEMY.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\Conditional-Structures-UDEMY.dll
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\refint\Conditional-Structures-UDEMY.dll
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\Conditional-Structures-UDEMY.pdb
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\Conditional-Structures-UDEMY.genruntimeconfig.cache
+C:\Users\PC\Desktop\ProgrammingLógic\Conditional-Structures-UDEMY\obj\Debug\net6.0\ref\Conditional-Structures-UDEMY.dll

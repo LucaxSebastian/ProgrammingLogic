@@ -1,6 +1,6 @@
 using System;
 
-namespace LogicaProgramacao.EstruturaCondicional
+namespace EstruturaCondicional
 {
     public static class ListaDeExerciciosCondicionais
     {
