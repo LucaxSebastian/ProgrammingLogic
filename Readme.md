@@ -23,3 +23,9 @@ The URI website is now called beecrowd. The [Beecrowd](https://www.beecrowd.com.
 Here, I put a folder with a list of exercises from the <a href="https://www.udemy.com/course/logica-de-programacao-csharp/">programming logic</a> course by Professor Nélio Alves. However, I adapted it my way for better accessibility to the exercises. In each folder (Sequential / Conditional / Repetitive), inside the Program.cs file, of each specific folder, there are two implemented methods that are inside the "ListaDeExercicios" file. One to display the exercises menu and the other allows the user to choose which problem they want to view.
 
 <p align="center"> <img src="https://uploaddeimagens.com.br/images/003/885/623/original/Image1.png?1653802825" alt="Exemple 1"/> </p>
+
+<ul>
+  <li> Remembering that I haven't finished this project yet. Still, I hope it helps whoever it is. </li>
+  <li> Language used in the exercises = <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> </li>
+</ul>
+
