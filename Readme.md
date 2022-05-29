@@ -26,6 +26,5 @@ Here, I put a folder with a list of exercises from the <a href="https://www.udem
 
 <ul>
   <li> Remembering that I haven't finished this project yet. Still, I hope it helps whoever it is. </li>
-  <li> Language used in the exercises = <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> </li>
 </ul>
 
