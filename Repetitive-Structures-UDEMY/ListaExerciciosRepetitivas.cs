@@ -8,7 +8,8 @@ namespace EstruturaRepetitiva
             Console.WriteLine("--- Exercicios sobre Estruturas Repetitivas ---");
             Console.WriteLine("1) Exercício 01 - URI 1113 (Estrutura While)");  
             Console.WriteLine("2) Exercício 02 - Estrutura Repetitiva FOR");  
-            Console.WriteLine("3) Exercício 03 - URI 1078 (Estrutura FOR)");     
+            Console.WriteLine("3) Exercício 03 - URI 1078 (Estrutura FOR)");  
+            Console.WriteLine("4) Exercício 04 - URI 1071 (Estrutura FOR)");   
             
             Console.WriteLine("5) SAIR");
         }
@@ -24,7 +25,7 @@ namespace EstruturaRepetitiva
                 case 1: Exercicio01.Executar(); break;
                 case 2: EstruturaFOR.Executar(); break;
                 case 3: URI1078.Executar(); break;
-
+                case 4: URI1071.Executar(); break;
 
                 case 5: 
                     Console.WriteLine("Saindo... Obrigado!");
