@@ -11,7 +11,6 @@ namespace EstruturaRepetitiva
             Console.WriteLine("3) Exercício 03 - URI 1078 (Estrutura FOR)");  
             Console.WriteLine("4) Exercício 04 - URI 1071 (Estrutura FOR)");
             Console.WriteLine("5) Exercício 05 - Estrutura Repetitiva Do While");   
-            
             Console.WriteLine("6) SAIR");
         }
 
