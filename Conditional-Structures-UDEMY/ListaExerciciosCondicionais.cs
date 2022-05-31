@@ -1,5 +1,4 @@
 using System;
-
 namespace EstruturaCondicional
 {
     public static class ListaDeExerciciosCondicionais
@@ -10,6 +9,7 @@ namespace EstruturaCondicional
             Console.WriteLine("1) Exercício Resolvido 01");
             Console.WriteLine("2) Exercícico 02 - URI 1036");
             Console.WriteLine("3) Exercício Resolvido 03");
+            Console.WriteLine("4) Prova de Lógica de Programação - Exercício 2.2");
             Console.WriteLine("5) SAIR");
         }
 
@@ -24,7 +24,8 @@ namespace EstruturaCondicional
                 case 1: Exercicio01.Executar(); break;
                 case 2: Exercicio02.Executar(); break;
                 case 3: Exercicio03.Executar(); break;
-
+                case 4: Exercicio04.Executar(); break;
+                
                 case 5: 
                     Console.WriteLine("Saindo... Obrigado!");
                     System.Environment.Exit(0);

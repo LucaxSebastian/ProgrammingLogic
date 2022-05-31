@@ -1,13 +1,13 @@
 ﻿using System;
-using EstruturaRepetitiva;
+using EstruturaCondicional;
 namespace LogicaProgramacao
 {
     class Program
     {
         public static void Main(string[] args)
         {
-            ListaDeExerciciosRepetitivas.MenuDeExercicios();
-            ListaDeExerciciosRepetitivas.ExecutarExercicio();  
+            ListaDeExerciciosCondicionais.MenuDeExercicios();
+            ListaDeExerciciosCondicionais.ExecutarExercicio();  
         }
     }
 }
