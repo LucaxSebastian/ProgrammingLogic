@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Programming Lógic\\Sequential-Structures-UDEMY\\Sequential Structures (UDEMY).csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\ProgrammingLógic\\Sequential-Structures-UDEMY\\Sequential Structures (UDEMY).csproj",
       "projectName": "Sequential Structures (UDEMY)",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Programming Lógic\\Sequential-Structures-UDEMY\\Sequential Structures (UDEMY).csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\ProgrammingLógic\\Sequential-Structures-UDEMY\\Sequential Structures (UDEMY).csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Programming Lógic\\Sequential-Structures-UDEMY\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\ProgrammingLógic\\Sequential-Structures-UDEMY\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

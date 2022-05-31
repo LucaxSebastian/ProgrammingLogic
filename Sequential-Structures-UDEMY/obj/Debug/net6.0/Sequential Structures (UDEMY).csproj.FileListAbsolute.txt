@@ -28,3 +28,18 @@ C:\Users\PC\Desktop\Programming Lógic\Sequential-Structures-UDEMY\obj\Debug\net
 C:\Users\PC\Desktop\Programming Lógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).pdb
 C:\Users\PC\Desktop\Programming Lógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).genruntimeconfig.cache
 C:\Users\PC\Desktop\Programming Lógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\ref\Sequential Structures (UDEMY).dll
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\bin\Debug\net6.0\Sequential Structures (UDEMY).exe
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\bin\Debug\net6.0\Sequential Structures (UDEMY).deps.json
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\bin\Debug\net6.0\Sequential Structures (UDEMY).runtimeconfig.json
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\bin\Debug\net6.0\Sequential Structures (UDEMY).dll
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\bin\Debug\net6.0\Sequential Structures (UDEMY).pdb
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).AssemblyInfo.cs
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).dll
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\refint\Sequential Structures (UDEMY).dll
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).pdb
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\Sequential Structures (UDEMY).genruntimeconfig.cache
+C:\Users\PC\Desktop\ProgrammingLógic\Sequential-Structures-UDEMY\obj\Debug\net6.0\ref\Sequential Structures (UDEMY).dll
