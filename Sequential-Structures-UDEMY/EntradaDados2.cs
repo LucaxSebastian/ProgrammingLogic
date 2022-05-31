@@ -1,7 +1,6 @@
 using System;
 using System.Globalization;
-
-namespace LogicaProgramacao.EstruturaSequencial
+namespace EstruturaSequencial
 {
     public static class Exercicio2
     {

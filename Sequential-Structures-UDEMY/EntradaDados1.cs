@@ -1,6 +1,5 @@
 using System;
-
-namespace LogicaProgramacao.EstruturaSequencial
+namespace EstruturaSequencial
 {
     public static class Exercicio1
     {

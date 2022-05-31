@@ -1,6 +1,7 @@
 using System;
+using EstruturaSequencial;
 
-namespace LogicaProgramacao.EstruturaSequencial
+namespace LogicaProgramacao
 {
     public class Program
     {
