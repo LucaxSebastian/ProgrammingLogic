@@ -12,7 +12,8 @@ namespace EstruturaRepetitiva
             Console.WriteLine("4) Exercício 04 - URI 1071 (Estrutura FOR)");
             Console.WriteLine("5) Exercício 05 - Estrutura Repetitiva Do While");  
             Console.WriteLine("6) Prova de Lógica de Programação - Exercício 3.1"); 
-            Console.WriteLine("7) SAIR");
+            Console.WriteLine("7) Prova de Lógica de Programação - Exercício 3.2");
+            Console.WriteLine("8) SAIR");
         }
 
         public static void ExecutarExercicio()
@@ -29,8 +30,9 @@ namespace EstruturaRepetitiva
                 case 4: URI1071.Executar(); break;
                 case 5: DoWhile.Executar(); break;
                 case 6: Exercicio06.Executar(); break;
+                case 7: Exercicio07.Executar(); break;
 
-                case 7: 
+                case 8: 
                     Console.WriteLine("Saindo... Obrigado!");
                     System.Environment.Exit(0);
                 break;
